@@ -1,0 +1,20 @@
+{
+  "name": "projeto-9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jest": "^27.0.3",
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.1",
+    "jest": "^27.4.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.1.0",
+    "supertest": "^6.1.6"
+  }
+}
